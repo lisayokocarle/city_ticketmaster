@@ -1,12 +1,17 @@
 # city_ticketmaster
 
-a package for looking at information about concerts happening in cities using ticket masters api
+a package for looking at information about concerts happening in cities using Ticket Master's API. Also allows for users to pull their own requests and save their own dataframes from the Ticket Master API
 
 ## Installation
 
 ```bash
 $ pip install city_ticketmaster
 ```
+## Installation from Test Pypi
+
+'''
+$pip install -i https://test.pypi.org/simple/ city-ticketmaster
+'''
 
 ## Usage
 
@@ -18,7 +23,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`city_ticketmaster` was created by Lisa. It is licensed under the terms of the MIT license.
+`city_ticketmaster` was created by Lisa Carle. It is licensed under the terms of the MIT license.
 
 ## Credits
 
